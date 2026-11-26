@@ -18,33 +18,36 @@ https://drive.google.com/drive/folders/1XQdnzVxoVNrQrFc68aI2D-OPwKDn3LEQ?usp=sha
 
 ## Professional Summary
 
-Product Designer/Design Lead with 4 years of experience. Specialized in fintech and crypto.
+Lead Product Designer with 4 years of experience in fintech and crypto, who grew from Product Designer to Design Lead. Led the end-to-end design of a decentralized exchange platform, including trading, margin trading, analytics and educational tools. Specialize in turning complex financial data and technical concepts into clear, intuitive interfaces for both beginner and advanced users. Experienced in building design systems, mentoring designers, and working closely with developers and stakeholders to ship products from concept to launch. Looking for a role where I can shape product strategy and
+design quality in a data-heavy product.
 
 ## Work Experience
 
 ### Lead Product Designer | DEX223
 *2023 – 2026*
 
-- Led the design process for a complex decentralized exchange (DEX) platform, overseeing product design from concept to implementation.
-- Designed and developed sophisticated user interfaces for core trading features, including the exchange platform, margin trading module, and advanced financial tools.
-- Created landing pages, data analytics dashboards, statistics pages, and interactive financial calculators.
-- Designed product presentations and visual materials to communicate complex technical concepts clearly and effectively.
-- Collaborated with developers and stakeholders to translate complex business requirements into intuitive, user-centered experiences.
+• Led end-to-end design of a decentralized exchange platform, from concept to launch, owning the exchange, margin trading module and
+  advanced financial tools.
+• Led a small design team: mentored junior designers, ran design reviews and established design processes and documentation.
+• Built and maintained a design system and UI kit, ensuring visual consistency and faster handoff to development.
+• Designed data-heavy interfaces: analytics dashboards, statistics pages and interactive financial calculators that help users make
+  trading decisions.
+• Created landing pages and product presentations that explained complex DeFi concepts to investors and users.
+• Translated business requirements into user flows and shipped features in close collaboration with developers and stakeholders.
 
 ### Product Designer | Cloud Bitcoin
 *2022 – 2023*
 
-- Designed user interfaces for a cryptocurrency and financial technology product, working with complex data-driven systems.
-- Created dashboards and financial interfaces focused on presenting complex information in a clear and accessible way.
-- Worked on UX/UI design solutions for financial tools and cryptocurrency-related features.
-- Collaborated with the development team to ensure accurate design implementation and a consistent user experience.
+• Designed dashboards and financial tools for a crypto product, making complex data easy to read for non-expert users.
+• Designed UX/UI for crypto-related features, from user flows and wireframes to final prototypes.
+• Worked closely with developers to ensure accurate implementation and a consistent experience across the product.
 
 
 ## Skills
 
-- **Product & UX/UI Design:** User-centered design, UX research, user flows, wireframing, prototyping, interaction design, dashboard design, complex interface design, responsive design.
+- **Product & UX/UI Design:** UX research, user flows, wireframing, prototyping, interaction design, data visualization, responsive design
   
-- **Design Systems:** Design systems, component libraries, UI kits, visual consistency, design documentation.
+- **Design Systems:** Design systems, component libraries, UI kits, design documentation.
   
 - **Tools:** Figma, FigJam, Miro, Notion, Jira, AI-powered design tools.
   
@@ -52,4 +55,6 @@ Product Designer/Design Lead with 4 years of experience. Specialized in fintech 
   
 - **Leadership & Collaboration:** Design leadership, team coordination, mentoring, stakeholder communication, cross-functional collaboration, developer handoff.
 
+## Languages
+English: B2 (Upper-Intermediate)
 
