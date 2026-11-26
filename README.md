@@ -10,7 +10,7 @@ https://t.me/viridisolis
 
 ## Portfolio:
 
-Bechance:
+Behance:
 https://www.behance.net/miavir
 
 Case Studies PDF: 
