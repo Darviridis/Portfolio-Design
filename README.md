@@ -54,7 +54,7 @@ working closely with developers and stakeholders from concept to launch.
 
 ## Pet projects
 
-Agent-Ready_Design-System | https://github.com/Darviridis/Agent-Ready_Design-System
+**Agent-Ready Design-System** | https://github.com/Darviridis/Agent-Ready_Design-System
 Personal project exploring AI-driven design workflows.
 
 • Built a design system structured for AI consumption (tokens, component rules, usage guidelines), enabling LLMs to generate
