@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1XQdnzVxoVNrQrFc68aI2D-OPwKDn3LEQ?usp=sha
 
 Product Designer/Design Lead with 4 years of experience. Specialized in fintech and crypto.
 
-### Work Experience
+## Work Experience
 
 ### Lead Product Designer | DEX223
 *2023 – 2026*
