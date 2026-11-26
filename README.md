@@ -28,18 +28,25 @@ design quality in a data-heavy product.
 
 • Led end-to-end design of a decentralized exchange platform, from concept to launch, owning the exchange, margin trading module and
   advanced financial tools.
+  
 • Led a small design team: mentored junior designers, ran design reviews and established design processes and documentation.
+
 • Built and maintained a design system and UI kit, ensuring visual consistency and faster handoff to development.
+
 • Designed data-heavy interfaces: analytics dashboards, statistics pages and interactive financial calculators that help users make
   trading decisions.
+  
 • Created landing pages and product presentations that explained complex DeFi concepts to investors and users.
+
 • Translated business requirements into user flows and shipped features in close collaboration with developers and stakeholders.
 
 ### Product Designer | Cloud Bitcoin
 *2022 – 2023*
 
 • Designed dashboards and financial tools for a crypto product, making complex data easy to read for non-expert users.
+
 • Designed UX/UI for crypto-related features, from user flows and wireframes to final prototypes.
+
 • Worked closely with developers to ensure accurate implementation and a consistent experience across the product.
 
 
